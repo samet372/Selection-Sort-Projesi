@@ -1,7 +1,5 @@
 # Selection-Sort-Projesi
 
-# Selection_Sort_Projesi_Proje_1
-
 # **Insertion Selection**
 
 ## 22<27, 22 yerinde kaldı. 
