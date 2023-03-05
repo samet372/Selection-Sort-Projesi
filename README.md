@@ -1,5 +1,9 @@
 # Selection-Sort-Projesi
 
+##[22,27,16,2,18,6] -> Insertion Sort
+
+##Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
 # **Insertion Selection**
 
 ## 22<27, 22 yerinde kaldı. 
